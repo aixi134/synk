@@ -104,7 +104,7 @@
         <dependency>
             <groupId>org.mapstruct</groupId>
             <artifactId>mapstruct</artifactId>
-            <version>1.5.5.Final</version>
+            <version>1.6.0</version>
         </dependency>
         <!--解决和lombok出现的异常-->
         <dependency>
